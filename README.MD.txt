@@ -2,6 +2,6 @@
 
 ##Ejemplo1 de GIT
 
-Proyecto de ejemplo de git en la clase de Analisis 
+Proyecto de ejemplo de git en la clase de Analisis de Mari
 
 
